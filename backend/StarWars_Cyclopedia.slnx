@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StarWars_Cyclopedia.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/StarWars_Cyclopedia.Tests.csproj" />
+  </Folder>
+</Solution>
